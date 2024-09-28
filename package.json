@@ -5,6 +5,7 @@
 	},
 	"main": "server.js",
 	"scripts": {
+	"author": "Jane Doe",
 		"start": "node server.js"
 	},
 	"repository": {
